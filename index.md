@@ -4,7 +4,7 @@
 <p>◎  • 视 频： 
 <a href="http://ksr.shirokuriwaki.com/s/" target="_blank">网址一</a> 　 
 <a href="http://kir.shirokuriwaki.com/s/" target="_blank">网址二</a> 　 
-<a href="http://kbr.shirokuriwaki.com/tt.html" target="_blank">网址三</a>
+<a href="http://kbr.shirokuriwaki.com/tt/" target="_blank">网址三</a>
 <p>◆ 分 享 网 址 ：j.nobe.ml  （ 请 收 藏） </p>
 
 <p>◎•  小 站：  
